@@ -18,5 +18,8 @@
 <a href="https://linkedin.com/in/ahmedmuelkholy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedmuelkholy" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://user-images.githubusercontent.com/70911509/234433950-3bf7ed0f-a83a-42b2-a98a-d23024032581.png" alt="gcp" width="40" height="40"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Tools:</h3>
+<p align="left"> <img src="https://user-images.githubusercontent.com/70911509/234433950-3bf7ed0f-a83a-42b2-a98a-d23024032581.png" alt="SQL" width="40" height="40"/>
+   <img src="https://img.icons8.com/color/512/power-bi.png" alt="Power-BI" width="40" height="40"/>
+  <img src="https://cdn.pixabay.com/photo/2017/03/08/21/21/spreadsheet-2127832_960_720.png" alt="spreadsheets" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> </p>
